@@ -1,7 +1,7 @@
 {
-	"name": "gulp-usemin",
-	"version": "0.2.2",
-	"description": "Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views).",
+	"name": "gulp-usemin2",
+	"version": "0.2.4",
+	"description": "Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views). Based off of gulp-usemin by Zont.",
 	"main": "index.js",
 	"dependencies": {
 		"gulp-util": "latest",
@@ -23,16 +23,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/zont/gulp-usemin.git"
+		"url": "git://github.com/pursual/gulp-usemin.git"
 	},
 	"keywords": [
 		"gulpplugin",
 		"usemin"
 	],
-	"author": "Alexander Zonov <zont@pochta.ru>",
+	"author": "Tony G <pursual@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/zont/gulp-usemin/issues"
+		"url": "https://github.com/pursual/gulp-usemin/issues"
 	},
 	"engines": {
 		"node": ">=0.8"
